@@ -12,7 +12,10 @@ h1 {"
     font-family: "Roboto Slab", serif;
   font-size: 46px;
 }
-
+#navbar-brand {
+    padding-top: 10px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
 #main-content {
   background-color: cadetblue;
   width: 80%;
