@@ -8,13 +8,13 @@ body {
   font-size: small;
   line-height: 32px;
 }
-h1 {"
-    font-family: "Roboto Slab", serif;
+h1 {
+  font-family: "Roboto Slab", serif;
   font-size: 46px;
 }
 #navbar-brand {
-    padding-top: 10px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  padding-top: 10px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 #main-content {
   background-color: cadetblue;
