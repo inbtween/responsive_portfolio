@@ -1,23 +1,19 @@
 # responsive_portfolio
 
+A link of the website is below.
 https://inbtween.github.io/responsive_portfolio/
 
+A screenshot is provided as a reference
 <img src="images/Screen-Shot-portfolio-website.png" alt="Website Screen Shot">
 
-<!-- Responsive design ensures that web applications render well on a variety of devices and window or screen sizes.
+Responsive Portfolio design.
 
-responsive portfolio. How do you deliver this? Here are some guidelines:
+I added the following files: `index.html`, `portfolio.html` and `contact.html`.
 
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
+- Using Bootstrap, I developed my portfolio site with the following items:
 
-* Using Bootstrap, develop your portfolio site with the following items:
+  - A navbar
 
-   * A navbar
+  - A responsive layout
 
-   * A responsive layout
-
-   * Responsive images
-
-* The Bootstrap portfolio should minimize the use of media queries.
-
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout. -->
+  - Responsive images
