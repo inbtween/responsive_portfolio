@@ -1,5 +1,9 @@
 # responsive_portfolio
 
+https://inbtween.github.io/responsive_portfolio/
+
+<img src="images/Screen-Shot-portfolio-website.png" alt="Website Screen Shot">
+
 <!-- Responsive design ensures that web applications render well on a variety of devices and window or screen sizes.
 
 responsive portfolio. How do you deliver this? Here are some guidelines:
