@@ -10,10 +10,10 @@ Responsive Portfolio design.
 
 I added the following files: `index.html`, `portfolio.html` and `contact.html`.
 
-- Using Bootstrap, I developed my portfolio site with the following items:
+I used Bootstrap. I developed my portfolio site with the following items:
 
-  - A navbar
+- A navbar
 
-  - A responsive layout
+- A responsive layout
 
-  - Responsive images
+- Responsive images

@@ -12,6 +12,10 @@ h1 {
   font-family: "Roboto Slab", serif;
   font-size: 46px;
 }
+h2 {
+  font-family: "roboto slab", serif;
+  color: aliceblue;
+}
 #navbar-brand {
   padding-top: 10px;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -33,4 +37,9 @@ h1 {
   text-align: center;
   margin: 20px;
   color: azure;
+}
+
+.img-fluid {
+  margin-top: 0px;
+  margin-bottom: 30px;
 }
