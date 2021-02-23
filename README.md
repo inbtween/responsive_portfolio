@@ -8,12 +8,4 @@ A screenshot is provided as a reference
 
 Responsive Portfolio design.
 
-I added the following files: `index.html`, `portfolio.html` and `contact.html`.
-
-I used Bootstrap. I developed my portfolio site with the following items:
-
-- A navbar
-
-- A responsive layout
-
-- Responsive images
+Updated portfolio with Project 1 and a Password Generator, a Code Refractor project.
